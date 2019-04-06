@@ -1,0 +1,8 @@
+# pdf documents
+*.pdf
+
+# logs, etc.
+*.aux
+*.fls
+*.out
+*.log
